@@ -1,0 +1,21 @@
+{
+  "name": "csv-and-json-parser",
+  "version": "1.0.0",
+  "description": "CSV and json parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-tarasyuk/csv-and-json-parser.git"
+  },
+  "keywords": [
+    "CSV",
+    "json",
+    "parser"
+  ],
+  "author": "Leo Tarasyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-tarasyuk/csv-and-json-parser/issues"
+  },
+  "homepage": "https://github.com/leo-tarasyuk/csv-and-json-parser#readme"
+}
